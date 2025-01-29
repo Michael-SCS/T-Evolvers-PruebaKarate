@@ -1,0 +1,12 @@
+{
+  "firstname": 521,
+  "lastname": "Castillo Saldarriaga",
+  "totalprice": true,
+  "depositpaid": "si",
+  "bookingdates": {
+    "checkin": "2025-013-10",
+    "checkout": "2025-0222-12"
+  },
+  "additionalneeds": "Breakfast",
+  "other": "other"
+}

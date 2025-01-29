@@ -1,0 +1,11 @@
+{
+  "firstname": "Michael Steven",
+  "lastname": "Castillo Saldarriaga",
+  "totalprice": 958,
+  "depositpaid": true,
+  "bookingdates": {
+    "checkin": "2025-01-10",
+    "checkout": "2025-02-12"
+  },
+  "additionalneeds": "Breakfast"
+}
