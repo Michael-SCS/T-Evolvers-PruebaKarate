@@ -17,4 +17,3 @@ Este repositorio contiene las pruebas automatizadas realizadas con **Karate** so
 
 Este reto permitió aplicar y reforzar habilidades en **automatización de pruebas API con Karate**, manejo de **escenarios alternativos**, y uso de **datos externos** para mejorar la cobertura de pruebas.  
 
-🎯 **¡Explora el código y haz tus propias pruebas!**  
