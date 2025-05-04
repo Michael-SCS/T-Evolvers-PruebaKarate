@@ -1,5 +1,5 @@
 # 🥋 Reto Final - Pruebas con Karate y Restful-Booker  
-la prueba final del módulo 2 del semillero QA
+la prueba final del módulo 2 del semillero QA T-Evolvers
 
 Este repositorio contiene las pruebas automatizadas realizadas con **Karate** sobre la API **Restful-Booker**.
 Se validaron diferentes escenarios para garantizar la correcta funcionalidad del servicio.  
